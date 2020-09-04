@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 11 21:49:45 2017
 
-@author: lipec
-"""
 from random import choice
 from numpy import array, dot, random
 import logicalOperations as logic

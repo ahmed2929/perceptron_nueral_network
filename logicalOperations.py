@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 11 21:53:42 2017
-
-@author: lipec
-"""
 
 def executeOperation(x,operation):
     switcher = {

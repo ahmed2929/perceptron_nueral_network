@@ -1,10 +1,10 @@
 # team
-- **ahmed khlaed ayoub
-- **eslam ashraf
-- **ahmed lotfy
-- **mahmoud tawfik
-- **ahmed gamal
-- **ibrahim zain
+- ahmed khlaed ayoub
+- eslam ashraf
+- ahmed lotfy
+- mahmoud tawfik
+- ahmed gamal
+- ibrahim zain
 
 
 # Perceptron
